@@ -269,12 +269,30 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":65,
-         "source":"furniture.tsx"
+         "image":"furniture.png",
+         "imageheight":992,
+         "imagewidth":512,
+         "margin":0,
+         "name":"furniture",
+         "spacing":0,
+         "tilecount":496,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":80,
          "firstgid":561,
-         "source":"tileset.tsx"
+         "image":"bigtileset.png",
+         "imageheight":1024,
+         "imagewidth":2560,
+         "margin":0,
+         "name":"bigTileset",
+         "spacing":0,
+         "tilecount":2560,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
